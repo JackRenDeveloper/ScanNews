@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2943A3BC-FD06-401A-B3F7-4CA584C33F02</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scannews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ee439ef0-a261-45a4-926e-7f97cc026a77++8464</key>
+		<string>http://www.svnchina.com/svn/nbclass_33/Scannews(WarWolf)%2525252525252525252520</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Scannews/Scannews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ee439ef0-a261-45a4-926e-7f97cc026a77++8464</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ee439ef0-a261-45a4-926e-7f97cc026a77++8464</key>
+		<string>http://www.svnchina.com/svn/nbclass_33</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.svnchina.com/svn/nbclass_33/Scannews(WarWolf)%2525252525252525252520/Scannews/Scannews.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ee439ef0-a261-45a4-926e-7f97cc026a77++8464</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ee439ef0-a261-45a4-926e-7f97cc026a77++8464</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Scannews(WarWolf)%20</string>
+		</dict>
+	</array>
+</dict>
+</plist>
